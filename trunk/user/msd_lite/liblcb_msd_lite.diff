@@ -1,7 +1,7 @@
 diff --git a/CMakeLists.txt b/CMakeLists.txt
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
-@@ -45,8 +45,7 @@ include(CheckFunctionExists)
+@@ -16,8 +16,7 @@ include(CheckFunctionExists)
  include(CheckSymbolExists)
  include(CheckCCompilerFlag)
 
